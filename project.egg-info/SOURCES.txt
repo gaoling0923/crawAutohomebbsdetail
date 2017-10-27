@@ -1,0 +1,14 @@
+setup.py
+crawAutohomebbsdetail/__init__.py
+crawAutohomebbsdetail/items.py
+crawAutohomebbsdetail/middlewares.py
+crawAutohomebbsdetail/pipelines.py
+crawAutohomebbsdetail/settings.py
+crawAutohomebbsdetail/spiders/__init__.py
+crawAutohomebbsdetail/spiders/spiderbbsdetail.py
+crawAutohomebbsdetail/spiders/testspider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
